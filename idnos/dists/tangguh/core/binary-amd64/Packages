@@ -1,0 +1,14 @@
+Package: btop
+Version: 1.2.13-1
+Architecture: amd64
+Maintainer: Edgar <Edgar{at}AnotherFoxGuy.com>
+Depends: coreutils, sed
+Filename: pool/idnos/b/btop_1.2.13-1_amd64.deb
+Size: 567266
+MD5sum: 9ef4b7a86053df747fb922e7293122c8
+SHA1: d11cafa748d846668deb63aab5affab5232fbf9d
+SHA256: 4654232a575c2fa2b74be98970950a1b0eae82b40e732d44d2ab088b94395512
+Homepage: https://github.com/aristocratos/btop
+Description: A monitor of system resourecs, bpytop ported to C++
+License: Apache
+

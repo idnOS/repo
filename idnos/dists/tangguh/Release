@@ -1,0 +1,18 @@
+Origin: idnOS repository
+Label: idnOS
+Suite: tangguh
+Codename: tangguh
+Version: 1.0
+Architectures: amd64
+Components: idnos
+Description: idnOS's official debian repository
+Date: Mon, 14 Nov 2022 02:01:56 +0000
+MD5Sum:
+ 0b8a7fc9ba7001a6f5e9df525f9f892a 473 core/binary-amd64/Packages
+ 8830dc857c4f8d326a80d806e5b13a3c 373 core/binary-amd64/Packages.gz
+SHA1:
+ e7581c9735bf5e50ce3b34b1c1c9184919d49e93 473 core/binary-amd64/Packages
+ d1ac01bdd11a5174ebce680b068240a3eda6bc41 373 core/binary-amd64/Packages.gz
+SHA256:
+ 9b0dcfd4750d4fa1770d8259d036211bd223fdc569fca407368aa03f60ea082b 473 core/binary-amd64/Packages
+ f8f925524964c237c8ef2f3ff1dc5532d2d98cacdefe914cb951dbe7d3ac7cf3 373 core/binary-amd64/Packages.gz

@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: idnOS repository
+Label: idnOS
+Suite: tangguh
+Codename: tangguh
+Version: 1.0
+Architectures: amd64
+Components: idnos
+Description: idnOS's official debian repository
+Date: Mon, 14 Nov 2022 02:01:56 +0000
+MD5Sum:
+ 0b8a7fc9ba7001a6f5e9df525f9f892a 473 core/binary-amd64/Packages
+ 8830dc857c4f8d326a80d806e5b13a3c 373 core/binary-amd64/Packages.gz
+SHA1:
+ e7581c9735bf5e50ce3b34b1c1c9184919d49e93 473 core/binary-amd64/Packages
+ d1ac01bdd11a5174ebce680b068240a3eda6bc41 373 core/binary-amd64/Packages.gz
+SHA256:
+ 9b0dcfd4750d4fa1770d8259d036211bd223fdc569fca407368aa03f60ea082b 473 core/binary-amd64/Packages
+ f8f925524964c237c8ef2f3ff1dc5532d2d98cacdefe914cb951dbe7d3ac7cf3 373 core/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEeZu53fPm2kC5Tbwn2yUKkC8wlXkFAmNxpZUACgkQ2yUKkC8w
+lXlTJxAAzLBPm+YHe5H90YoZG0PWRueR7BIxa6s8zBZwt4qdFYb/LHXis9GhjAN/
+cQPw6xBxVwQkboNEXPODLBSUZkNvXZdF7XBMUc1hvwivZ3g6kW+rKSy2xEgZ1rxf
+DLNK4Bl+ke8yeWhH8Qs76Te5pxocxWYtn9a6H3TvE3fabUwSkv1lEzUE6OILwl2R
+1AaGcIM5uBK9HnVP8IWD+eMHFQPB7/7Q7jcaUjZTlm7zLGIAyzMw4uRzAsAvugbW
+THXX9zRFlzcEwAAjolWKqi4hLl6YMpdCkPZkGSkXvCG98QVp3YtOYqcbcouNCcUE
+z3duBJZguF5ExfvAmnU0gsp5LIkzL71pdRt2tZRRCJm8RGGuQfaUwrtnW35j6+BS
+0dMbiO028AXw48NDGZ1ZkBj2PRWs5qYGznijfM5mzCVsxBeYGKANfq620cZA6trh
+7JdP/YCBYi0/b8f8Eb/P4CGNt8ILIGMQCAWicJ4gXGgql8zCQ/KtoaA+oCdMljpY
+u2HLSTAyWDd+0YjleYG3v+Wp0wUL/Igfm+qLwZMBwQgNdY2oDRnmZ9i+jaYRkA60
+S4OMIAIkLUnP/6Tu6E+5EOlHXHRIfX3JEXvT3Mzh+n1bRQIi0f0GrOxPVadTx2Fc
+Cc4BC9QOB3sqX6Hh3dcQ06cdalLviNTM88OH56PSTuJYRMOyqJQ=
+=dtNn
+-----END PGP SIGNATURE-----
