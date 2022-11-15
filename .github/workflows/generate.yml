@@ -20,7 +20,9 @@ jobs:
 
       # todo: use variables lol, what if the codename changes or we have a different arch types
       - name: Generate a Package file
-        run: dpkg-scanpackages idnos/pool/ > idnos/dists/tangguh/core/binary-amd64/Packages
+        run: |
+          cd idnos
+          dpkg-scanpackages pool/ > dists/tangguh/core/binary-amd64/Packages
       
       - name: Compress the Package file
         run: cat idnos/dists/tangguh/core/binary-amd64/Packages | gzip -9 idnos/dists/tangguh/core/binary-amd64/Packages.gz
@@ -33,6 +35,7 @@ jobs:
 
       - name: Sign the Release file
         run: |
+          cd idnos/dists/tangguh
           cat Release | gpg --default-key DB250A902F309579 -abs --clearsign > InRelease
           cat Release | gpg --default-key DB250A902F309579 -abs > Release.gpg
 
