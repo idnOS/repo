@@ -20,7 +20,7 @@ jobs:
 
       # todo: use variables lol, what if the codename changes or we have a different arch types
       - name: Generate a Package file
-        run: dpkg-scanpackages pool/ > idnos/dists/tangguh/core/binary-amd64/Packages
+        run: dpkg-scanpackages idnos/pool/ > idnos/dists/tangguh/core/binary-amd64/Packages
       
       - name: Compress the Package file
         run: cat idnos/dists/tangguh/core/binary-amd64/Packages | gzip -9 idnos/dists/tangguh/core/binary-amd64/Packages.gz
