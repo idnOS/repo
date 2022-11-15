@@ -1,5 +1,5 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
 Origin: idnOS repository
 Label: idnOS
@@ -9,33 +9,35 @@ Version: 1.0
 Architectures: amd64
 Components: idnos
 Description: idnOS's official debian repository
-Date: Mon, 14 Nov 2022 03:00:19 +0000
+Date: Tue, 15 Nov 2022 07:19:27 +0000
 MD5Sum:
  5fbd0640dcc6b4e2c7c535c88445b570 472 core/binary-amd64/Packages
  72e3a5a82ab8c6929eb0eea88dd13c13 371 core/binary-amd64/Packages.gz
- a2eaaa1870d157b371345d89504c5c92 833 Release.gpg
- c019fd58e268ce0f864e2ba5eb1cff89 1592 InRelease
+ 83c4c6a1971923a2b6bc9622eb58e8e2 1806 InRelease
+ 57f02936212f9c305e5a0e3077d8bb69 833 Release.gpg
 SHA1:
  64d22f0ab1837322daf763173552d5a4f47bbe4c 472 core/binary-amd64/Packages
  9d37de41e4baa359551ef9dd2ac42742aadfcf74 371 core/binary-amd64/Packages.gz
- 109ee69e23474532442571bc0afcb93921ef0fc4 833 Release.gpg
- ad68e5344f81115ab783a29f047ea0b29ac4e76c 1592 InRelease
+ a961d578abc3e3951236d5532287739c594a850b 1806 InRelease
+ 2d487583dca53577ec980a8985f4383ce4f57091 833 Release.gpg
 SHA256:
  558c44aca95dc34030639f9fc74fc7aa523aae1c5aa0c6635a6f923a7f65b327 472 core/binary-amd64/Packages
  51c17e709feab541b21697fa08ea884b6df7d0bdc6ef46b880cf1f2de76fb12e 371 core/binary-amd64/Packages.gz
+ d4c5d4a17cb74517ca9b8f7eb883565332644197f383135c40f40b9af4680074 1806 InRelease
+ 35c04df99d25d50f7a12acdf7973946ba7f42268a21a0324cce6bceac6fea57a 833 Release.gpg
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEeZu53fPm2kC5Tbwn2yUKkC8wlXkFAmNxr8EACgkQ2yUKkC8w
-lXlxXRAA3OC2PDgJ77wbLYonGQY6pbkiWjbaMKoY+DNe0Abi6Nr736lZ9zPr1xaL
-/HiPACw6ojBStq0cqaOoinmZMAm2DWwiUs0RKfyJRhQFeXSOQZA6MupNV7kesh5+
-jZLG38pXuFL94Imlr/jNrSvl7weiYmG7fL8BLg2uOOJBDg8oedmj+uetAx7VG1fO
-L6CLsnI+P27SggxYlqqVfRNB+2EhPajrCZ7EuEOY4c0sluAfZFNwpb8i4lRkpH6a
-R0m9i2+dfnu6hejuapk1j0erpdbiIKF0PBi3MgD4a1IItKbYoIvBkjG9fF6cJy+o
-xsQpWlrsSGPHSMi2wcNhWbh4xhUP25XKMRM6KT9/XwUzGEtveCRels26rOtq90W2
-6MF9f2bgzttuBV32y3WLpq1OPqtcRDEZ5kaGTfAnTzsFxfz/Hr3XZVdsV5I2sMTa
-n+NVUFtlHjf5HH64FeB3frPYtyIh1cpX/1NXZiJbj1uamA6OH+xSVsEwhIpFt4er
-pKXCisOWECqxhfBNwmfdOOh8DBv5+x+EwqxT4pFbsOadqlGdh2Ve6WYEc0WkQUdg
-dRz0JkzylkpHqqhiTKUegSPtg8NMEX4f1mi/iMaIUjZd4gEH2K2MP8SXJ51QePcw
-FYYMZN7wKqbMa9JTzyMrwfjpSeKgiyQQFhRFKy1sqV1sfuVwhnY=
-=z7wW
+iQIzBAEBCgAdFiEEeZu53fPm2kC5Tbwn2yUKkC8wlXkFAmNzPX8ACgkQ2yUKkC8w
+lXk0pA//Y8zhvJd2qV7pKWqmFnYw30rXF+EeZwlCRB205W+eYfyLLn312myxukfq
+pjMaGBZYHsemD0KvaD8gNlwiImGLSV9WNq3/z+sTC4xWW9UdJO/6Qz2DdVdZPo07
+ZdlHalqqjsr8wJbFxt1xM6H4nF3Ik2H3EPATHU5oK+Vbzc/GmG1zA/pkP9RHEeJS
+fSnHhy5mWhG6oCnzoviEaDQsvQKmwj9UTuAu+h/SXSlgCt+Q5QSpZOtNitBabUiN
+MOGbjtMPNNy2xt6q00tyYgntG5/AZ3r6ejuj5OJ3VJI04mh+sf+KYgjuww1aLBef
+1UCp2pVQdEo7mH0ALTYV3jsrvowCSEsmbTsB2kwLQRAN1IDW5OQMwPV3puLSH4jC
+aRuISvLR54zMoMsp0U59/oBVTbw5MOQDsWttz/Be3PQyce+7mdzdS1DieuD0BRv8
+MO73mwo5KMbueoct0dQmrbOJHpyr+Yvyg3yvRryjk/BICDgbadBiqYkuYx8+DSEl
+Q0fY55z0R1/g0uFaW8szEVL6vXrua4O9bZuTBmFn4hHbSgTj2MeB5sR68vwEYmzj
+TzgQCYdnPhLfE4M1tivzRqyn4sQWWfdZcaGVZ1HXeYaz2rAKbJL9/iFZCyDfEYwL
+Vb4ANQdZQiY4DJtZwBkajT3+4g9ydziFdbmKcF20h7d2uEhHX7c=
+=EuTh
 -----END PGP SIGNATURE-----
