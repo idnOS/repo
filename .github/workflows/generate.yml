@@ -25,7 +25,7 @@ jobs:
           dpkg-scanpackages pool/ > dists/tangguh/core/binary-amd64/Packages
       
       - name: Compress the Package file
-        run: cat idnos/dists/tangguh/core/binary-amd64/Packages | gzip -9 idnos/dists/tangguh/core/binary-amd64/Packages.gz
+        run: cat idnos/dists/tangguh/core/binary-amd64/Packages | gzip -9fk idnos/dists/tangguh/core/binary-amd64/Packages.gz
       
       - name: Generate the Release file
         run: |
