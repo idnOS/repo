@@ -1,3 +1,26 @@
+Package: base-files
+Version: 11.1+deb11u5idnos1-1
+Architecture: amd64
+Essential: yes
+Maintainer: Iyxan23 <nurihsanalghifari@gmail.com>
+Pre-Depends: awk
+Conflicts: debian-security-support (<< 2019.04.25), initscripts (<< 2.88dsf-13.3), sendfile (<< 2.1b.20080616-5.2~)
+Replaces: base, dpkg (<= 1.15.0), miscutils
+Provides: base
+Filename: pool/core/b/base-files_11.1+deb11u5idnos1-1_amd64.deb
+Size: 98822
+MD5sum: a575a099c26b8431af49f478fbd8c4f0
+SHA1: 815fc88012ecfffadd84ee1db7c29ce7251869c2
+SHA256: 31f08df969635a4c47dced09e749a48a4caa548259f84af50615360eb42288e1
+Section: Admin
+Priority: required
+Multi-Arch: foreign
+Description: Debian base system miscellaneous files
+ This package contains the basic filesystem hierarchy of a Debian system, and
+ several important miscellaneous files, such as /etc/debian_version
+ /etc/host.conf, /etc/issue, /etc/motd, /etc/profile, and others
+ and the text of several common licenses in use on Debian systems.
+
 Package: btop
 Version: 1.2.13-1
 Architecture: amd64

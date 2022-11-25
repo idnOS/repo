@@ -6,19 +6,19 @@ Version: 1.0
 Architectures: amd64
 Components: idnos
 Description: idnOS's official debian repository
-Date: Wed, 16 Nov 2022 07:07:20 +0000
+Date: Fri, 25 Nov 2022 13:18:02 +0000
 MD5Sum:
- 5fbd0640dcc6b4e2c7c535c88445b570 472 core/binary-amd64/Packages
+ 8640e4ed8011b7d6c6b1c68366251cf9 1969 InRelease
  72e3a5a82ab8c6929eb0eea88dd13c13 371 core/binary-amd64/Packages.gz
- 0e2da0fd6ca4c4d87c7b9da7a05aca0d 1969 InRelease
- e7b7fe88b4a4be818612e1601cdaf64c 833 Release.gpg
+ ecfba836bd8858bf912fcf8cb5e55f1e 1421 core/binary-amd64/Packages
+ 95e8c2e9a3f9f4e89ba86228b5ebf73f 833 Release.gpg
 SHA1:
- 64d22f0ab1837322daf763173552d5a4f47bbe4c 472 core/binary-amd64/Packages
+ b980cd29c2cedbf6894786b4c058b4b1ae3e274a 1969 InRelease
  9d37de41e4baa359551ef9dd2ac42742aadfcf74 371 core/binary-amd64/Packages.gz
- e9396c3aa877476101ef20114cdfefb2ec206a8d 1969 InRelease
- f53bac30c5cdf1fc658860c8a6dda3e0fdc026df 833 Release.gpg
+ a5aac03a21de9d8e0dcc604a52383e3f2ca249cd 1421 core/binary-amd64/Packages
+ cb97a04fbff35c1e1969c655dbcbed6b5ee44f56 833 Release.gpg
 SHA256:
- 558c44aca95dc34030639f9fc74fc7aa523aae1c5aa0c6635a6f923a7f65b327 472 core/binary-amd64/Packages
+ a91fa55eef1fa4990fe38847f72bf169913a6d3bd735a59228cb2af6fe1809b8 1969 InRelease
  51c17e709feab541b21697fa08ea884b6df7d0bdc6ef46b880cf1f2de76fb12e 371 core/binary-amd64/Packages.gz
- 2585493901e3d91e8697f9b90e3f988d715ac4ca9441cde3542f168299ea9167 1969 InRelease
- 8461e2d3a7135c5cdba6349beeb6721668254e489c1e88b1e45a5ce5644c1e5c 833 Release.gpg
+ adb958f030d5e0949e548de2542846d0b4e11d068a6c4a279aac955b38dc8bd6 1421 core/binary-amd64/Packages
+ 1cdce6daa8d6c828caa32211fa74d900c5550fd69d5623020fd769572794f198 833 Release.gpg
