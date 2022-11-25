@@ -2,9 +2,10 @@
 name: Deploy static content to Pages
 
 on:
-  # Runs on pushes targeting the default branch
-  push:
-    branches: ["main"]
+  workflow_run:
+    workflows: [Generate Release, Package and sign them]
+    types:
+      - completed
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -23,8 +24,6 @@ concurrency:
 jobs:
   # Single deploy job since we're just deploying
   deploy:
-    # Don't deploy on package upload commits (commits other than the one that's commited by the package workflow)
-    if: github.event.head_commit.message == 'generate Release and Package'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
