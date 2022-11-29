@@ -2,7 +2,7 @@ idnOS's APT repo
 
 Import signing key
 ```shell
-$ curl -SsL https://idnos.github.io/repo/pgp-key.public | apt-key add -
+$ curl -SsL https://idnos.github.io/repo/public-key.gpg | apt-key add -
 ```
 
 Adding it in `sources.list`:
