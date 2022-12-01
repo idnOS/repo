@@ -21,7 +21,7 @@ Suite: tangguh
 Codename: tangguh
 Version: 1.0
 Architectures: amd64
-Components: idnos
+Components: core
 Description: idnOS's official debian repository
 Date: $(date -Ru)
 EOF
