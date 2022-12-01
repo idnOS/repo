@@ -4,21 +4,21 @@ Suite: tangguh
 Codename: tangguh
 Version: 1.0
 Architectures: amd64
-Components: idnos
+Components: core
 Description: idnOS's official debian repository
-Date: Sat, 26 Nov 2022 01:09:05 +0000
+Date: Thu, 01 Dec 2022 03:38:35 +0000
 MD5Sum:
- 0447c85bea1c52b1636709d45a725604 2225 InRelease
- 69b0b4b2a0368157b87273085abf6d6f 868 core/binary-amd64/Packages.gz
+ b01b64cc54b0f960152616f265b137bb 1972 InRelease
+ 7ac26c4a1046c042f255fb8dc9d031d9 868 core/binary-amd64/Packages.gz
  ecfba836bd8858bf912fcf8cb5e55f1e 1421 core/binary-amd64/Packages
- 1a32662686a9c2ea865cc9447b1900f3 833 Release.gpg
+ 2db71167fd3922bc82cde214d62c0f1d 833 Release.gpg
 SHA1:
- 1b0e61a34c9070830bac0a32463a82c2c0704765 2225 InRelease
- e70a70a7edf3bafdbf289752aef5ac8128c46f4f 868 core/binary-amd64/Packages.gz
+ f79694d4066b59b4a006d10450c35d28d58734ae 1972 InRelease
+ 4621f99842472c72d53f31488ba6aa15e38be1b0 868 core/binary-amd64/Packages.gz
  a5aac03a21de9d8e0dcc604a52383e3f2ca249cd 1421 core/binary-amd64/Packages
- 5cada6e323522c93246321dbad8a1bffaad5d8dd 833 Release.gpg
+ eb37ca9706164849fff4869d5d7ba010744f705b 833 Release.gpg
 SHA256:
- 4b362aa07e81adacc34068f7df5afb6c0ec33cd3b4513d7395c54803cacc91bf 2225 InRelease
- 92108c53516e670c00f6c491984bc44a03363f8f5f89dd0b018ce8b9c489d1a2 868 core/binary-amd64/Packages.gz
+ d4347a12a1c727db61a576fde606e60cb050a91ebb4b07b52b768c59c87c7087 1972 InRelease
+ 86a15ff1f39d6513f724aa424feed5af02af9ea6375b1b205f02f7f9dc3b0cae 868 core/binary-amd64/Packages.gz
  adb958f030d5e0949e548de2542846d0b4e11d068a6c4a279aac955b38dc8bd6 1421 core/binary-amd64/Packages
- fcd459b8b3c4c02191a413cf638e4f8b6d6e19021add0737b1feab2ec5b260d5 833 Release.gpg
+ 5c27d073f48c0a1af1488d396b70d39515118d64287caf808063918112ca6d38 833 Release.gpg
